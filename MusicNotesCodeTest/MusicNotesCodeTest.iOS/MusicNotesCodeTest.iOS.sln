@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicNotesCodeTest.iOS", "MusicNotesCodeTest.iOS.csproj", "{B985B527-2E74-4D7E-9994-28C15ECD586E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Release|iPhone.Build.0 = Release|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B985B527-2E74-4D7E-9994-28C15ECD586E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+	EndGlobalSection
+EndGlobal

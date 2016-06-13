@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="MusicNotesCodeTest/MusicNotesCodeTest.iOS/MusicNotesCodeTest.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicNotesCodeTest/MusicNotesCodeTest/code/view/Library/LibraryPage.xaml.cs">
+    <Files>
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/model/Song/SongModel.cs" Line="18" Column="26" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/view/Library/LibraryPage.xaml" Line="40" Column="64" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/viewmodel/Song/SongViewModel.cs" Line="12" Column="4" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest.iOS/Main.cs" Line="19" Column="1" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest.iOS/code/database/SQLite_iOS.cs" Line="14" Column="4" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/App.cs" Line="33" Column="4" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/view/MainMasterDetailPage.cs" Line="34" Column="1" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/viewmodel/Library/LibraryViewModel.cs" Line="45" Column="15" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/view/Library/LibraryPage.xaml.cs" Line="43" Column="4" NotebookId="1" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/code/view/Song/SongPage.xaml.cs" Line="7" Column="45" NotebookId="1" />
+      <File FileName="MusicNotesCodeTest/MusicNotesCodeTest/resources/songs.xml" Line="20" Column="14" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MusicNotesCodeTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6574A6B6-24BE-48B7-BA4F-6DB3C7B0049B" />
+  <DisabledProjects>
+    <String>MusicNotesCodeTest/MusicNotesCodeTest.Droid/MusicNotesCodeTest.Droid.csproj</String>
+    <String>MusicNotesCodeTest/MusicNotesCodeTest.Windows/MusicNotesCodeTest.Windows.csproj</String>
+    <String>MusicNotesCodeTest/MusicNotesCodeTest.UWP/MusicNotesCodeTest.UWP.csproj</String>
+    <String>MusicNotesCodeTest/MusicNotesCodeTest.WinPhone/MusicNotesCodeTest.WinPhone.csproj</String>
+  </DisabledProjects>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/MusicNotesCodeTest.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/MusicNotesCodeTestiOS.exe
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/benjaminbaum/Desktop/Development/musicnotes/MusicnotesTest/MusicNotesCodeTest/MusicNotesCodeTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
